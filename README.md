@@ -1,7 +1,9 @@
 #  Back-End Web Development 1 - HTTP-5125-RNA
 
-## Overview
+##  Overview
 
-This repository contains all coursework, projects, and assignments for **Back-End Web Development 1 - HTTP-5125-RNA**
+**Instructor:** Christine Bittle
 
-##  Folder Structure
+This repository contains all coursework, projects, and assignments for **Back-End Web Development 1 - HTTP-5125-RNA**.
+
+
